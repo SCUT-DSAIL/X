@@ -22,9 +22,9 @@
 
 ## 模型下载
 
-| 模型    | 下载链接（百度网盘）                                     |
+| 模型    | 原模型                                      |
 | ------- | -------------------------------------------------------- |
-| SAIL-8B | https://pan.baidu.com/s/18_r8yjzZAliJlojwlgxgUw?pwd=vd9c |
+| [SAIL-8B](https://pan.baidu.com/s/18_r8yjzZAliJlojwlgxgUw?pwd=vd9c) | LLaMA3-8B
 
 
 
